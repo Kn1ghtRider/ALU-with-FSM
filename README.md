@@ -1,1 +1,1 @@
-mplementation of a 5-bit Word Size CPU Featuring a 16-bit Instruction Set Architecture with Add, OR, SHR ALU Operations, Four General Purpose Registers, 9-word RAM, and Support for Register, Immediate, and Control Transfer Instructions 
+Implementation of a 5-bit Word Size CPU Featuring a 16-bit Instruction Set Architecture with Add, OR, SHR ALU Operations, Four General Purpose Registers, 9-word RAM, and Support for Register, Immediate, and Control Transfer Instructions 
